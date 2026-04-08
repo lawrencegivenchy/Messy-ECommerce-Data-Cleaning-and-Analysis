@@ -193,7 +193,7 @@ The dashboard was built on top of seven pre-aggregated SQL query results, each l
 
 ---
 
-## 📂 Project Structure
+## 📂 Project Files
 
 [Messy-ECom-Sales dataset](Messy-ECom-Sales.xlsx)
 
@@ -211,4 +211,4 @@ The dashboard was built on top of seven pre-aggregated SQL query results, each l
 
 **Lawrence T Makhafola**  
 Aspiring Data Analyst | South Africa  
-[GitHub](#) | [LinkedIn](#)
+[GitHub](https://github.com/lawrencegivenchy) | [LinkedIn](www.linkedin.com/in/lawrence-makhafola-8b0075249)
