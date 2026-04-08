@@ -195,14 +195,11 @@ The dashboard was built on top of seven pre-aggregated SQL query results, each l
 
 ## 📂 Project Structure
 
-```
-├── Raw_Messy_E-Com_Sales_Data.xlsx       # Original uncleaned dataset
-├── Clean_Messy_E-Com_Sales_Data.csv      # Cleaned dataset (Excel output)
-├── MessyEComERD.pdf                      # Entity Relationship Diagram
-├── ECommerce_SQL_Queries.sql             # All Databricks SQL queries
-├── ECommerce_Dashboard.pbix             # Power BI dashboard file
-└── README.md                             # Project documentation
-```
+[Messy-ECom-Sales dataset](Messy-ECom-Sales.xlsx)
+[Cleaned E-Com sales dataset](Clean_Messy_E-Com_Sales_Data.xlsx)
+[E-Com Sales ERD](MessyEComERD.pdf)
+[E-Com Power BI Dashboard](E-ComDashboard.pbix)
+[E-Com Dashboard Image](DashboardImage.pdf)
 
 ---
 
