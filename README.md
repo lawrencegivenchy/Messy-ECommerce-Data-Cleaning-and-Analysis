@@ -59,7 +59,7 @@ The dataset was reviewed to identify three logical entities within the flat file
 
 A Customer can place many Orders. Each Order is associated with one Product. This structure reflects how the data would be organised in a normalised relational database.
 
-An Entity Relationship Diagram was created to document this model — see `MessyEComERD.pdf`.
+An Entity Relationship Diagram was created to document this model — see [`E-Com Sales ERD`](MessyEComERD.pdf).
 
 ---
 
