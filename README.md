@@ -14,7 +14,7 @@ Using Databricks SQL and Power BI, the analysis explores key areas including rev
 ## 📁 Dataset
 
 - **Source:** Synthetic e-commerce sales dataset
-- **File:** `Clean_Messy_E-Com_Sales_Data.csv`
+- **File:** [`Messy_E-Com_Sales_Data.csv`](Messy-ECom-Sales.xlsx)
 - **Records:** ~100 orders
 - **Date Range:** 2023 – 2025
 
