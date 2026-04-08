@@ -196,9 +196,13 @@ The dashboard was built on top of seven pre-aggregated SQL query results, each l
 ## 📂 Project Structure
 
 [Messy-ECom-Sales dataset](Messy-ECom-Sales.xlsx)
+
 [Cleaned E-Com sales dataset](Clean_Messy_E-Com_Sales_Data.xlsx)
+
 [E-Com Sales ERD](MessyEComERD.pdf)
+
 [E-Com Power BI Dashboard](E-ComDashboard.pbix)
+
 [E-Com Dashboard Image](DashboardImage.pdf)
 
 ---
